@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+}
+
+.content {
+    display: flex;
+    height: 73vh;
+}
+
+header, article, aside, nav, footer {
+    padding: 2rem;
+}
+
+header {
+    background-color: bisque;
+}
+
+article {
+    background-color: aqua;
+    width: 50%;
+}
+
+aside {
+    background-color: aquamarine;
+    width: 25%;
+}
+
+nav {
+    background-color: darkcyan;
+    width: 25%;
+}
+
+footer {
+    background-color: bisque;
+}
